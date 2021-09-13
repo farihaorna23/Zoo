@@ -1,0 +1,72 @@
+body{
+  background-color: #FFB830;
+  color: #630A10;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 100px;
+
+}
+
+h2{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 50px;
+}
+
+
+.zoo{
+width: 900px;
+height: 600px;
+position: relative;
+top:-100px;
+}
+
+.furry{
+  width:50%;
+  margin: 20px auto 60px auto;
+  text-align: left;
+  font-family: 'Bubblegum Sans', cursive;
+  line-height: 2;
+}
+
+.fur{
+  width:50%;
+  margin: 20px auto 100px auto;
+  text-align: left;
+  font-family: 'Bubblegum Sans', cursive;
+  line-height: 2;
+}
+
+.paw{
+  width:30%;
+  float:right;
+}
+
+.ani{
+  width:30%;
+  float:right;
+  margin-left: 30px;
+}
+
+.visit{
+  font-size: 30px;
+}
+
+.fur{
+  font-family: 'Bubblegum Sans', cursive;
+  line-height: 2;
+}
+
+.vis{
+  font-size: 30px;
+}
+
+.bg{
+  background-color: #FFF8E5;
+}
+
+.color2{
+  color: #630A10;
+}
