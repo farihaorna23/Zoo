@@ -3,3 +3,43 @@ body{
   color: #630A10;
   text-align: center;
 }
+
+.lion3{
+  width:10%;
+}
+
+.paw{
+  width:10%;
+  float:right;
+}
+
+.paw1{
+  width:10%;
+  float:left;
+}
+
+.be4{
+  width:44%;
+  float:left;
+}
+
+.des{
+  padding-top: 50px;
+  font-size: 35px;
+  font-family: 'Bubblegum Sans', cursive;
+}
+
+.des2{
+  font-size: 35px;
+  font-family: 'Bubblegum Sans', cursive;
+}
+
+.link{
+  color: #630A10;
+}
+
+.title{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 100px;
+  padding: 40px 20px 20px 60px;
+}
