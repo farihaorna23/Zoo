@@ -1,0 +1,95 @@
+body{
+  background-color: #FFB830;
+  color: #630A10;
+  text-align: center;
+}
+
+.title{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 100px;
+  padding: 40px 20px 20px 60px;
+
+}
+
+.lion{
+  width: 25%;
+  float: left;
+  margin-left: 30px;
+}
+
+.cheetah{
+  width: 25%;
+  float: left;
+  margin-left: 30px;
+}
+
+.fox{
+  width: 25%;
+  float: left;
+  margin-left: 30px;
+}
+
+.bear{
+  width: 25%;
+  float: left;
+  margin-left: 30px;
+}
+
+.panda{
+  width: 25%;
+  float: left;
+  margin-left: 30px;
+}
+
+h2{
+  font-size: 60px;
+  padding-top:60px;
+  padding-top:5px;
+}
+
+.Animal{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 35px;
+  text-align: center;
+}
+
+.paw{
+  width:10%;
+  float:right;
+}
+
+.paw1{
+  width:10%;
+  float:left;
+}
+
+.lio{
+  padding-bottom: 220px;
+}
+
+.che{
+  padding-bottom: 220px;
+}
+
+.fo{
+  padding-bottom: 220px;
+}
+
+.be{
+  padding-bottom: 220px;
+}
+
+.pa{
+  padding-bottom: 220px;
+}
+
+
+.discription{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 40px;
+  text-align: center;
+}
+
+.color2{
+  color: #630A10;
+}
